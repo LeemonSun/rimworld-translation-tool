@@ -1,0 +1,8 @@
+__pycache__/
+state/
+jobs/
+runs/
+bin/
+obj/
+.env
+*.sqlite*
